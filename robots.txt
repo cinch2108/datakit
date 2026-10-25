@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /datakit/vendor/
+
+Sitemap: https://cinch2108.github.io/datakit/sitemap.xml

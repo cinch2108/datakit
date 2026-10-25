@@ -1,0 +1,33 @@
+{
+  "name": "Sheetwise – CSV & Excel Tools",
+  "short_name": "Sheetwise",
+  "description": "Convert, view, clean, merge, split, compare, pivot and chart CSV and Excel files in your browser. No uploads.",
+  "start_url": "/datakit/",
+  "scope": "/datakit/",
+  "display": "standalone",
+  "background_color": "#0b0b14",
+  "theme_color": "#0b0b14",
+  "icons": [
+    {
+      "src": "/datakit/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/datakit/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/datakit/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/datakit/img/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
